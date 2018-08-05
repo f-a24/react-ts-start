@@ -39,6 +39,7 @@ react-ts-start
 |:--|:--|
 |[React](https://reactjs.org/)|A JavaScript library for building user interfaces|
 |[Styled-Components](https://www.styled-components.com/)|Visual primitives for the component age|
+|[Storybook](https://storybook.js.org/)|The UI Development Environment|
 |[TypeScript](https://www.typescriptlang.org/)|JavaScript that scales|
 |[Parcel](https://parceljs.org/)|Blazing fast, zero configuration web application bundler|
 |[Jest](https://jestjs.io/)|Delightful JavaScript Testing|
